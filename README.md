@@ -1,5 +1,4 @@
 # Penn Ball
----
 
 ## Introduction
 The goal of PennBall is to provide a comprehensive, easy to use analytical and statistical
@@ -32,7 +31,6 @@ through a simplified overview dashboard.
 categories to explore as well as plenty of images and photos to look at.
 
 ## Architecture
----
 
 ### Technologies Used
 - Front-end UI: ReactJS
@@ -78,7 +76,7 @@ the players’ names, headshots, stats, positions, country, and college. Users c
 player to access the specific player page.
 
 ## Data
----
+
 ### Data sets:
 **https://github.com/swar/nba_api**: This dataset contains data from the NBA.com website and
 includes a vast array of data on player stats, game events, team stats, and more. Data on all
@@ -106,6 +104,6 @@ queries. We created a Players Pair table and a Division Tuples table which sped 
 queries #1 and #5 respectively. The schemas are described more in the query section.
 
 ## Database
----
+
 <img width="1012" height="456" alt="Screenshot 2026-04-21 at 5 59 52 PM" src="https://github.com/user-attachments/assets/0ebd2b7e-f2d4-40e7-af25-c27b14181fb3" />
 
